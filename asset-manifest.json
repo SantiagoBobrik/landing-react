@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/landing-react/static/css/main.9e239999.chunk.css",
+    "main.js": "/landing-react/static/js/main.cc326fa7.chunk.js",
+    "main.js.map": "/landing-react/static/js/main.cc326fa7.chunk.js.map",
+    "runtime-main.js": "/landing-react/static/js/runtime-main.f9ded1c0.js",
+    "runtime-main.js.map": "/landing-react/static/js/runtime-main.f9ded1c0.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/landing-react/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b27b4ce2.chunk.js": "/landing-react/static/js/2.b27b4ce2.chunk.js",
+    "static/js/2.b27b4ce2.chunk.js.map": "/landing-react/static/js/2.b27b4ce2.chunk.js.map",
+    "index.html": "/landing-react/index.html",
+    "precache-manifest.065858cd0b7f3ed01e46f7dbac9a2767.js": "/landing-react/precache-manifest.065858cd0b7f3ed01e46f7dbac9a2767.js",
+    "service-worker.js": "/landing-react/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/landing-react/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.9e239999.chunk.css.map": "/landing-react/static/css/main.9e239999.chunk.css.map",
+    "static/js/2.b27b4ce2.chunk.js.LICENSE.txt": "/landing-react/static/js/2.b27b4ce2.chunk.js.LICENSE.txt",
+    "static/media/bomb.gif": "/landing-react/static/media/bomb.36968077.gif",
+    "static/media/coronavirus.svg": "/landing-react/static/media/coronavirus.0acbe3ed.svg",
+    "static/media/dinero.svg": "/landing-react/static/media/dinero.0fef6a45.svg",
+    "static/media/logo.png": "/landing-react/static/media/logo.c63fd3f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ded1c0.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b27b4ce2.chunk.js",
+    "static/css/main.9e239999.chunk.css",
+    "static/js/main.cc326fa7.chunk.js"
+  ]
+}
