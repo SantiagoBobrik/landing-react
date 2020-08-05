@@ -1,0 +1,22 @@
+.title {
+  color: #00adb5;
+}
+
+.text-secondary {
+  color: #393e46;
+}
+
+.text-red {
+  color: #ff5722;
+}
+.bg-red {
+  background-color: #ff5722 !important;
+}
+
+.icon {
+  opacity: 0.6;
+}
+
+.bg-main {
+  background-color: #00adb5 !important;
+}

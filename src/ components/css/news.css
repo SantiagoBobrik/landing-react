@@ -1,0 +1,14 @@
+.news-title {
+  color: #303131;
+}
+
+.news-img {
+  width: 100%;
+  height: 250px;
+}
+@media only screen and (max-width: 600px) {
+  .news-img {
+    width: 100%;
+    height: 200px;
+  }
+}
